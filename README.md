@@ -1,4 +1,4 @@
 py3k
 ====
 
-My python projects, re-implemented in Python 3
+This repo will consist of some (or all) of my prior Python projects, re-implemented using Python 3.
